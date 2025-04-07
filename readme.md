@@ -36,7 +36,7 @@
 
 2. Get session id by Pairing Code
     <br>
-<a href='https://bega-normal-scanner.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://professional-developer-bera-d30720bc578a.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -44,11 +44,11 @@
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com' target="_blank"><img alt='heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
    <br>
-2. Now Deploy
+2. Now Deploy ON HEROKU 
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/BERA-TECH' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bera-Tech/bera-media' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY TO RENDER
@@ -97,8 +97,9 @@
 <a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
    <br>
 2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://gitHub.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bera-Tech/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -106,9 +107,8 @@
 ***
 
 ### THANKS TO:
-- [***Ibrahim-tech***](https://github.com/ibrahimaitech) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
 - [***Baraka Bega***](https://github.com/Kingbega) For Code encryption 
-- [***Marsel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
+- [***Marisel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
